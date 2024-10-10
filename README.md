@@ -1,0 +1,4 @@
+To run:
+```
+  $ yarn start
+```
